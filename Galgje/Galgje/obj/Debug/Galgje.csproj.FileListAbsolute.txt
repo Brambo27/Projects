@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Galgje\Galgje\bin\Debug\Galgje.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Galgje\Galgje\bin\Debug\Galgje.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Galgje\Galgje\bin\Debug\Galgje.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.pdb

@@ -1,0 +1,10 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\33. optellen.1\33. optellen.1\bin\Debug\_33.optellen._1.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\33. optellen.1\33. optellen.1\bin\Debug\_33.optellen._1.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\33. optellen.1\33. optellen.1\bin\Debug\_33.optellen._1.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\33. optellen.1\33. optellen.1\bin\Debug\InputBox.dll
+C:\Users\bram\Documents\Visual Studio 2015\Projects\33. optellen.1\33. optellen.1\obj\Debug\33. optellen.1.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\33. optellen.1\33. optellen.1\obj\Debug\_33.optellen._1.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\33. optellen.1\33. optellen.1\obj\Debug\_33.optellen._1.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\33. optellen.1\33. optellen.1\obj\Debug\33. optellen.1.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\33. optellen.1\33. optellen.1\obj\Debug\_33.optellen._1.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\33. optellen.1\33. optellen.1\obj\Debug\_33.optellen._1.pdb

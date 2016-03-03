@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\CookieClicker\CookieClicker\obj\Debug\CookieClicker.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\CookieClicker\CookieClicker\obj\Debug\CookieClicker.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\CookieClicker\CookieClicker\bin\Debug\CookieClicker.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\CookieClicker\CookieClicker\obj\Debug\CookieClicker.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\CookieClicker\CookieClicker\obj\Debug\CookieClicker.pdb

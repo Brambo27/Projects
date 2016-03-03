@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\22 TM 27 ListBox cijfers\22 TM 27 ListBox cijfers\bin\Debug\22 TM 27 ListBox cijfers.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\22 TM 27 ListBox cijfers\22 TM 27 ListBox cijfers\bin\Debug\22 TM 27 ListBox cijfers.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\22 TM 27 ListBox cijfers\22 TM 27 ListBox cijfers\bin\Debug\22 TM 27 ListBox cijfers.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\22 TM 27 ListBox cijfers\22 TM 27 ListBox cijfers\obj\Debug\22 TM 27 ListBox cijfers.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\22 TM 27 ListBox cijfers\22 TM 27 ListBox cijfers\obj\Debug\_22_TM_27_ListBox_cijfers.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\22 TM 27 ListBox cijfers\22 TM 27 ListBox cijfers\obj\Debug\_22_TM_27_ListBox_cijfers.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\22 TM 27 ListBox cijfers\22 TM 27 ListBox cijfers\obj\Debug\22 TM 27 ListBox cijfers.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\22 TM 27 ListBox cijfers\22 TM 27 ListBox cijfers\obj\Debug\22 TM 27 ListBox cijfers.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\22 TM 27 ListBox cijfers\22 TM 27 ListBox cijfers\obj\Debug\22 TM 27 ListBox cijfers.pdb

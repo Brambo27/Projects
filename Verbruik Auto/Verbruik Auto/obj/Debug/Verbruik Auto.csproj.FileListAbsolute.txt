@@ -1,0 +1,9 @@
+c:\users\bram\documents\visual studio 2015\Projects\Verbruik Auto\Verbruik Auto\bin\Debug\Verbruik Auto.exe.config
+c:\users\bram\documents\visual studio 2015\Projects\Verbruik Auto\Verbruik Auto\bin\Debug\Verbruik Auto.exe
+c:\users\bram\documents\visual studio 2015\Projects\Verbruik Auto\Verbruik Auto\bin\Debug\Verbruik Auto.pdb
+c:\users\bram\documents\visual studio 2015\Projects\Verbruik Auto\Verbruik Auto\obj\Debug\Verbruik Auto.csprojResolveAssemblyReference.cache
+c:\users\bram\documents\visual studio 2015\Projects\Verbruik Auto\Verbruik Auto\obj\Debug\Verbruik_Auto.Form1.resources
+c:\users\bram\documents\visual studio 2015\Projects\Verbruik Auto\Verbruik Auto\obj\Debug\Verbruik_Auto.Properties.Resources.resources
+c:\users\bram\documents\visual studio 2015\Projects\Verbruik Auto\Verbruik Auto\obj\Debug\Verbruik Auto.csproj.GenerateResource.Cache
+c:\users\bram\documents\visual studio 2015\Projects\Verbruik Auto\Verbruik Auto\obj\Debug\Verbruik Auto.exe
+c:\users\bram\documents\visual studio 2015\Projects\Verbruik Auto\Verbruik Auto\obj\Debug\Verbruik Auto.pdb

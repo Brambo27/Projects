@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\18. Te snel\18. Te snel\bin\Debug\_18.Te_snel.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\18. Te snel\18. Te snel\bin\Debug\_18.Te_snel.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\18. Te snel\18. Te snel\bin\Debug\_18.Te_snel.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\18. Te snel\18. Te snel\obj\Debug\18. Te snel.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\18. Te snel\18. Te snel\obj\Debug\_18.Te_snel.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\18. Te snel\18. Te snel\obj\Debug\_18.Te_snel.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\18. Te snel\18. Te snel\obj\Debug\18. Te snel.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\18. Te snel\18. Te snel\obj\Debug\_18.Te_snel.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\18. Te snel\18. Te snel\obj\Debug\_18.Te_snel.pdb

@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\17. Korting\17. Korting\bin\Debug\_17.Korting.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\17. Korting\17. Korting\bin\Debug\_17.Korting.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\17. Korting\17. Korting\bin\Debug\_17.Korting.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\17. Korting\17. Korting\obj\Debug\17. Korting.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\17. Korting\17. Korting\obj\Debug\_17.Korting.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\17. Korting\17. Korting\obj\Debug\_17.Korting.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\17. Korting\17. Korting\obj\Debug\17. Korting.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\17. Korting\17. Korting\obj\Debug\_17.Korting.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\17. Korting\17. Korting\obj\Debug\_17.Korting.pdb

@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Eieren\Eieren\bin\Debug\Eieren.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Eieren\Eieren\bin\Debug\Eieren.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Eieren\Eieren\bin\Debug\Eieren.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Eieren\Eieren\obj\Debug\Eieren.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Eieren\Eieren\obj\Debug\Eieren.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Eieren\Eieren\obj\Debug\Eieren.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Eieren\Eieren\obj\Debug\Eieren.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Eieren\Eieren\obj\Debug\Eieren.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Eieren\Eieren\obj\Debug\Eieren.pdb

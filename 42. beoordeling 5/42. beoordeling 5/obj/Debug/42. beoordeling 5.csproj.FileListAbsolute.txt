@@ -1,0 +1,10 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\42. beoordeling 5\42. beoordeling 5\bin\Debug\_42.beoordeling_5.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\42. beoordeling 5\42. beoordeling 5\bin\Debug\_42.beoordeling_5.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\42. beoordeling 5\42. beoordeling 5\bin\Debug\_42.beoordeling_5.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\42. beoordeling 5\42. beoordeling 5\obj\Debug\42. beoordeling 5.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\42. beoordeling 5\42. beoordeling 5\obj\Debug\_42.beoordeling_5.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\42. beoordeling 5\42. beoordeling 5\obj\Debug\_42.beoordeling_5.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\42. beoordeling 5\42. beoordeling 5\obj\Debug\42. beoordeling 5.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\42. beoordeling 5\42. beoordeling 5\obj\Debug\_42.beoordeling_5.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\42. beoordeling 5\42. beoordeling 5\obj\Debug\_42.beoordeling_5.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\42. beoordeling 5\42. beoordeling 5\bin\Debug\InputBox.dll

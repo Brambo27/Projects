@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Keuze 4. Boter, kaas en eieren\Keuze 4. Boter, kaas en eieren\bin\Debug\Keuze_4.Boter__kaas_en_eieren.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Keuze 4. Boter, kaas en eieren\Keuze 4. Boter, kaas en eieren\bin\Debug\Keuze_4.Boter__kaas_en_eieren.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Keuze 4. Boter, kaas en eieren\Keuze 4. Boter, kaas en eieren\bin\Debug\Keuze_4.Boter__kaas_en_eieren.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Keuze 4. Boter, kaas en eieren\Keuze 4. Boter, kaas en eieren\obj\Debug\Keuze 4. Boter, kaas en eieren.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Keuze 4. Boter, kaas en eieren\Keuze 4. Boter, kaas en eieren\obj\Debug\Keuze_4.Boter__kaas_en_eieren.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Keuze 4. Boter, kaas en eieren\Keuze 4. Boter, kaas en eieren\obj\Debug\Keuze_4.Boter__kaas_en_eieren.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Keuze 4. Boter, kaas en eieren\Keuze 4. Boter, kaas en eieren\obj\Debug\Keuze 4. Boter, kaas en eieren.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Keuze 4. Boter, kaas en eieren\Keuze 4. Boter, kaas en eieren\obj\Debug\Keuze_4.Boter__kaas_en_eieren.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Keuze 4. Boter, kaas en eieren\Keuze 4. Boter, kaas en eieren\obj\Debug\Keuze_4.Boter__kaas_en_eieren.pdb

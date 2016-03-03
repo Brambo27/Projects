@@ -1,0 +1,10 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\36. cijfers raden\36. cijfers raden\bin\Debug\_36.cijfers_raden.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\36. cijfers raden\36. cijfers raden\obj\Debug\36. cijfers raden.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\36. cijfers raden\36. cijfers raden\obj\Debug\_36.cijfers_raden.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\36. cijfers raden\36. cijfers raden\obj\Debug\_36.cijfers_raden.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\36. cijfers raden\36. cijfers raden\obj\Debug\36. cijfers raden.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\36. cijfers raden\36. cijfers raden\bin\Debug\_36.cijfers_raden.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\36. cijfers raden\36. cijfers raden\bin\Debug\_36.cijfers_raden.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\36. cijfers raden\36. cijfers raden\obj\Debug\_36.cijfers_raden.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\36. cijfers raden\36. cijfers raden\obj\Debug\_36.cijfers_raden.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\36. cijfers raden\36. cijfers raden\bin\Debug\InputBox.dll

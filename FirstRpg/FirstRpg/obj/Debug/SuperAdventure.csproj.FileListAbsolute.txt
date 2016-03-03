@@ -1,0 +1,11 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\bin\Debug\SuperAdventure.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\bin\Debug\SuperAdventure.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\bin\Debug\SuperAdventure.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\bin\Debug\Engine.dll
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\bin\Debug\Engine.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\obj\Debug\SuperAdventure.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\obj\Debug\SuperAdventure.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\obj\Debug\FirstRpg.SuperAdventure.resources

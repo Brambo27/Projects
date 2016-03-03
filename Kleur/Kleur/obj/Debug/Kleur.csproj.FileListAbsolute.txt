@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Kleur\Kleur\bin\Debug\Kleur.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Kleur\Kleur\bin\Debug\Kleur.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Kleur\Kleur\bin\Debug\Kleur.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Kleur\Kleur\obj\Debug\Kleur.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Kleur\Kleur\obj\Debug\Kleur.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Kleur\Kleur\obj\Debug\Kleur.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Kleur\Kleur\obj\Debug\Kleur.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Kleur\Kleur\obj\Debug\Kleur.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Kleur\Kleur\obj\Debug\Kleur.pdb

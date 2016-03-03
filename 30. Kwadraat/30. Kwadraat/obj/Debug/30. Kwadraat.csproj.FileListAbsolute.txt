@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\30. Kwadraat\30. Kwadraat\bin\Debug\_30.Kwadraat.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\30. Kwadraat\30. Kwadraat\bin\Debug\_30.Kwadraat.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\30. Kwadraat\30. Kwadraat\bin\Debug\_30.Kwadraat.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\30. Kwadraat\30. Kwadraat\obj\Debug\30. Kwadraat.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\30. Kwadraat\30. Kwadraat\obj\Debug\_30.Kwadraat.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\30. Kwadraat\30. Kwadraat\obj\Debug\_30.Kwadraat.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\30. Kwadraat\30. Kwadraat\obj\Debug\30. Kwadraat.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\30. Kwadraat\30. Kwadraat\obj\Debug\_30.Kwadraat.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\30. Kwadraat\30. Kwadraat\obj\Debug\_30.Kwadraat.pdb

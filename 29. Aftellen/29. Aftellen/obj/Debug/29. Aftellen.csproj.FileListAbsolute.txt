@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\29. Aftellen\29. Aftellen\bin\Debug\_29.Aftellen.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\29. Aftellen\29. Aftellen\bin\Debug\_29.Aftellen.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\29. Aftellen\29. Aftellen\bin\Debug\_29.Aftellen.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\29. Aftellen\29. Aftellen\obj\Debug\29. Aftellen.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\29. Aftellen\29. Aftellen\obj\Debug\_29.Aftellen.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\29. Aftellen\29. Aftellen\obj\Debug\_29.Aftellen.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\29. Aftellen\29. Aftellen\obj\Debug\29. Aftellen.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\29. Aftellen\29. Aftellen\obj\Debug\_29.Aftellen.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\29. Aftellen\29. Aftellen\obj\Debug\_29.Aftellen.pdb

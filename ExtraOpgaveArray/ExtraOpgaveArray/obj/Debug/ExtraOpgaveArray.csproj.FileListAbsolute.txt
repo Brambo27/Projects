@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\ExtraOpgaveArray\ExtraOpgaveArray\bin\Debug\ExtraOpgaveArray.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\ExtraOpgaveArray\ExtraOpgaveArray\bin\Debug\ExtraOpgaveArray.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\ExtraOpgaveArray\ExtraOpgaveArray\bin\Debug\ExtraOpgaveArray.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\ExtraOpgaveArray\ExtraOpgaveArray\obj\Debug\ExtraOpgaveArray.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\ExtraOpgaveArray\ExtraOpgaveArray\obj\Debug\ExtraOpgaveArray.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\ExtraOpgaveArray\ExtraOpgaveArray\obj\Debug\ExtraOpgaveArray.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\ExtraOpgaveArray\ExtraOpgaveArray\obj\Debug\ExtraOpgaveArray.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\ExtraOpgaveArray\ExtraOpgaveArray\obj\Debug\ExtraOpgaveArray.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\ExtraOpgaveArray\ExtraOpgaveArray\obj\Debug\ExtraOpgaveArray.pdb

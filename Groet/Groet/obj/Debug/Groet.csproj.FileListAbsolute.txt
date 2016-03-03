@@ -1,0 +1,9 @@
+c:\users\bram\documents\visual studio 2015\Projects\Groet\Groet\bin\Debug\Groet.exe.config
+c:\users\bram\documents\visual studio 2015\Projects\Groet\Groet\obj\Debug\Groet.csprojResolveAssemblyReference.cache
+c:\users\bram\documents\visual studio 2015\Projects\Groet\Groet\obj\Debug\Groet.Form1.resources
+c:\users\bram\documents\visual studio 2015\Projects\Groet\Groet\obj\Debug\Groet.Properties.Resources.resources
+c:\users\bram\documents\visual studio 2015\Projects\Groet\Groet\obj\Debug\Groet.csproj.GenerateResource.Cache
+c:\users\bram\documents\visual studio 2015\Projects\Groet\Groet\bin\Debug\Groet.exe
+c:\users\bram\documents\visual studio 2015\Projects\Groet\Groet\bin\Debug\Groet.pdb
+c:\users\bram\documents\visual studio 2015\Projects\Groet\Groet\obj\Debug\Groet.exe
+c:\users\bram\documents\visual studio 2015\Projects\Groet\Groet\obj\Debug\Groet.pdb

@@ -1,0 +1,10 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\34. Positief of negatief\34. Positief of negatief\bin\Debug\_34.Positief_of_negatief.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\34. Positief of negatief\34. Positief of negatief\bin\Debug\_34.Positief_of_negatief.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\34. Positief of negatief\34. Positief of negatief\bin\Debug\_34.Positief_of_negatief.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\34. Positief of negatief\34. Positief of negatief\obj\Debug\34. Positief of negatief.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\34. Positief of negatief\34. Positief of negatief\obj\Debug\_34.Positief_of_negatief.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\34. Positief of negatief\34. Positief of negatief\obj\Debug\_34.Positief_of_negatief.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\34. Positief of negatief\34. Positief of negatief\obj\Debug\34. Positief of negatief.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\34. Positief of negatief\34. Positief of negatief\obj\Debug\_34.Positief_of_negatief.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\34. Positief of negatief\34. Positief of negatief\obj\Debug\_34.Positief_of_negatief.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\34. Positief of negatief\34. Positief of negatief\bin\Debug\InputBox.dll

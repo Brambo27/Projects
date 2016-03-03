@@ -1,0 +1,10 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\43. rji met cijfers\43. rji met cijfers\bin\Debug\_43.rji_met_cijfers.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\43. rji met cijfers\43. rji met cijfers\bin\Debug\_43.rji_met_cijfers.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\43. rji met cijfers\43. rji met cijfers\bin\Debug\_43.rji_met_cijfers.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\43. rji met cijfers\43. rji met cijfers\obj\Debug\43. rji met cijfers.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\43. rji met cijfers\43. rji met cijfers\obj\Debug\_43.rji_met_cijfers.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\43. rji met cijfers\43. rji met cijfers\obj\Debug\_43.rji_met_cijfers.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\43. rji met cijfers\43. rji met cijfers\obj\Debug\43. rji met cijfers.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\43. rji met cijfers\43. rji met cijfers\obj\Debug\_43.rji_met_cijfers.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\43. rji met cijfers\43. rji met cijfers\obj\Debug\_43.rji_met_cijfers.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\43. rji met cijfers\43. rji met cijfers\bin\Debug\InputBox.dll

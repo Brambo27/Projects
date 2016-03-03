@@ -1,0 +1,6 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\numberToText\numberToText\bin\Debug\numberToText.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\numberToText\numberToText\obj\Debug\numberToText.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\numberToText\numberToText\bin\Debug\numberToText.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\numberToText\numberToText\bin\Debug\numberToText.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\numberToText\numberToText\obj\Debug\numberToText.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\numberToText\numberToText\obj\Debug\numberToText.pdb

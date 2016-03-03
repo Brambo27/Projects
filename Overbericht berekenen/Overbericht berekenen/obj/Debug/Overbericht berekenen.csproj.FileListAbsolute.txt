@@ -1,0 +1,9 @@
+c:\users\bram\documents\visual studio 2015\Projects\Overbericht berekenen\Overbericht berekenen\bin\Debug\Overbericht berekenen.exe.config
+c:\users\bram\documents\visual studio 2015\Projects\Overbericht berekenen\Overbericht berekenen\bin\Debug\Overbericht berekenen.exe
+c:\users\bram\documents\visual studio 2015\Projects\Overbericht berekenen\Overbericht berekenen\bin\Debug\Overbericht berekenen.pdb
+c:\users\bram\documents\visual studio 2015\Projects\Overbericht berekenen\Overbericht berekenen\obj\Debug\Overbericht berekenen.csprojResolveAssemblyReference.cache
+c:\users\bram\documents\visual studio 2015\Projects\Overbericht berekenen\Overbericht berekenen\obj\Debug\Overbericht_berekenen.Form1.resources
+c:\users\bram\documents\visual studio 2015\Projects\Overbericht berekenen\Overbericht berekenen\obj\Debug\Overbericht_berekenen.Properties.Resources.resources
+c:\users\bram\documents\visual studio 2015\Projects\Overbericht berekenen\Overbericht berekenen\obj\Debug\Overbericht berekenen.csproj.GenerateResource.Cache
+c:\users\bram\documents\visual studio 2015\Projects\Overbericht berekenen\Overbericht berekenen\obj\Debug\Overbericht berekenen.exe
+c:\users\bram\documents\visual studio 2015\Projects\Overbericht berekenen\Overbericht berekenen\obj\Debug\Overbericht berekenen.pdb

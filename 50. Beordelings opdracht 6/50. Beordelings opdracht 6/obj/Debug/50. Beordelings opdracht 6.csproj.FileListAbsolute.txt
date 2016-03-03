@@ -1,0 +1,10 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\50. Beordelings opdracht 6\50. Beordelings opdracht 6\bin\Debug\_50.Beordelings_opdracht_6.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\50. Beordelings opdracht 6\50. Beordelings opdracht 6\bin\Debug\_50.Beordelings_opdracht_6.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\50. Beordelings opdracht 6\50. Beordelings opdracht 6\bin\Debug\_50.Beordelings_opdracht_6.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\50. Beordelings opdracht 6\50. Beordelings opdracht 6\obj\Debug\50. Beordelings opdracht 6.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\50. Beordelings opdracht 6\50. Beordelings opdracht 6\obj\Debug\_50.Beordelings_opdracht_6.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\50. Beordelings opdracht 6\50. Beordelings opdracht 6\obj\Debug\_50.Beordelings_opdracht_6.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\50. Beordelings opdracht 6\50. Beordelings opdracht 6\obj\Debug\50. Beordelings opdracht 6.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\50. Beordelings opdracht 6\50. Beordelings opdracht 6\obj\Debug\_50.Beordelings_opdracht_6.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\50. Beordelings opdracht 6\50. Beordelings opdracht 6\obj\Debug\_50.Beordelings_opdracht_6.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\50. Beordelings opdracht 6\50. Beordelings opdracht 6\bin\Debug\InputBox.dll

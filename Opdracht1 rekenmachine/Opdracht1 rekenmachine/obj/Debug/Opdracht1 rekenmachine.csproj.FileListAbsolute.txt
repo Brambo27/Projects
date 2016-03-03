@@ -1,0 +1,9 @@
+c:\users\bram\documents\visual studio 2015\Projects\Opdracht1 rekenmachine\Opdracht1 rekenmachine\bin\Debug\Opdracht1 rekenmachine.exe.config
+c:\users\bram\documents\visual studio 2015\Projects\Opdracht1 rekenmachine\Opdracht1 rekenmachine\bin\Debug\Opdracht1 rekenmachine.exe
+c:\users\bram\documents\visual studio 2015\Projects\Opdracht1 rekenmachine\Opdracht1 rekenmachine\bin\Debug\Opdracht1 rekenmachine.pdb
+c:\users\bram\documents\visual studio 2015\Projects\Opdracht1 rekenmachine\Opdracht1 rekenmachine\obj\Debug\Opdracht1 rekenmachine.csprojResolveAssemblyReference.cache
+c:\users\bram\documents\visual studio 2015\Projects\Opdracht1 rekenmachine\Opdracht1 rekenmachine\obj\Debug\Opdracht1_rekenmachine.Form1.resources
+c:\users\bram\documents\visual studio 2015\Projects\Opdracht1 rekenmachine\Opdracht1 rekenmachine\obj\Debug\Opdracht1_rekenmachine.Properties.Resources.resources
+c:\users\bram\documents\visual studio 2015\Projects\Opdracht1 rekenmachine\Opdracht1 rekenmachine\obj\Debug\Opdracht1 rekenmachine.csproj.GenerateResource.Cache
+c:\users\bram\documents\visual studio 2015\Projects\Opdracht1 rekenmachine\Opdracht1 rekenmachine\obj\Debug\Opdracht1 rekenmachine.exe
+c:\users\bram\documents\visual studio 2015\Projects\Opdracht1 rekenmachine\Opdracht1 rekenmachine\obj\Debug\Opdracht1 rekenmachine.pdb

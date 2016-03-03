@@ -1,0 +1,9 @@
+c:\users\bram\documents\visual studio 2015\Projects\Opgaven 6a\Opgaven 6a\bin\Debug\Opgaven 6a.exe.config
+c:\users\bram\documents\visual studio 2015\Projects\Opgaven 6a\Opgaven 6a\bin\Debug\Opgaven 6a.exe
+c:\users\bram\documents\visual studio 2015\Projects\Opgaven 6a\Opgaven 6a\bin\Debug\Opgaven 6a.pdb
+c:\users\bram\documents\visual studio 2015\Projects\Opgaven 6a\Opgaven 6a\obj\Debug\Opgaven 6a.csprojResolveAssemblyReference.cache
+c:\users\bram\documents\visual studio 2015\Projects\Opgaven 6a\Opgaven 6a\obj\Debug\Opgaven_6a.Form1.resources
+c:\users\bram\documents\visual studio 2015\Projects\Opgaven 6a\Opgaven 6a\obj\Debug\Opgaven_6a.Properties.Resources.resources
+c:\users\bram\documents\visual studio 2015\Projects\Opgaven 6a\Opgaven 6a\obj\Debug\Opgaven 6a.csproj.GenerateResource.Cache
+c:\users\bram\documents\visual studio 2015\Projects\Opgaven 6a\Opgaven 6a\obj\Debug\Opgaven 6a.exe
+c:\users\bram\documents\visual studio 2015\Projects\Opgaven 6a\Opgaven 6a\obj\Debug\Opgaven 6a.pdb

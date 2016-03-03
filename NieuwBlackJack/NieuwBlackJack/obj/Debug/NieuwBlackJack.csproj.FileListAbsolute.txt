@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\NieuwBlackJack\NieuwBlackJack\bin\Debug\NieuwBlackJack.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\NieuwBlackJack\NieuwBlackJack\bin\Debug\NieuwBlackJack.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\NieuwBlackJack\NieuwBlackJack\bin\Debug\NieuwBlackJack.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\NieuwBlackJack\NieuwBlackJack\obj\Debug\NieuwBlackJack.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\NieuwBlackJack\NieuwBlackJack\obj\Debug\NieuwBlackJack.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\NieuwBlackJack\NieuwBlackJack\obj\Debug\NieuwBlackJack.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\NieuwBlackJack\NieuwBlackJack\obj\Debug\NieuwBlackJack.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\NieuwBlackJack\NieuwBlackJack\obj\Debug\NieuwBlackJack.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\NieuwBlackJack\NieuwBlackJack\obj\Debug\NieuwBlackJack.pdb

@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\19. Kaartje\19. Kaartje\bin\Debug\_19.Kaartje.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\19. Kaartje\19. Kaartje\bin\Debug\_19.Kaartje.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\19. Kaartje\19. Kaartje\bin\Debug\_19.Kaartje.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\19. Kaartje\19. Kaartje\obj\Debug\19. Kaartje.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\19. Kaartje\19. Kaartje\obj\Debug\_19.Kaartje.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\19. Kaartje\19. Kaartje\obj\Debug\_19.Kaartje.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\19. Kaartje\19. Kaartje\obj\Debug\19. Kaartje.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\19. Kaartje\19. Kaartje\obj\Debug\_19.Kaartje.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\19. Kaartje\19. Kaartje\obj\Debug\_19.Kaartje.pdb

@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\21.Beoordeling2\21.Beoordeling2\bin\Debug\21.Beoordeling2.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\21.Beoordeling2\21.Beoordeling2\bin\Debug\21.Beoordeling2.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\21.Beoordeling2\21.Beoordeling2\bin\Debug\21.Beoordeling2.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\21.Beoordeling2\21.Beoordeling2\obj\Debug\21.Beoordeling2.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\21.Beoordeling2\21.Beoordeling2\obj\Debug\_21.Beoordeling2.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\21.Beoordeling2\21.Beoordeling2\obj\Debug\_21.Beoordeling2.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\21.Beoordeling2\21.Beoordeling2\obj\Debug\21.Beoordeling2.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\21.Beoordeling2\21.Beoordeling2\obj\Debug\21.Beoordeling2.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\21.Beoordeling2\21.Beoordeling2\obj\Debug\21.Beoordeling2.pdb

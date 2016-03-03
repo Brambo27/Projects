@@ -1,0 +1,10 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\40. Hoger_Lager\40. Hoger_Lager\bin\Debug\_40.Hoger_Lager.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\40. Hoger_Lager\40. Hoger_Lager\bin\Debug\_40.Hoger_Lager.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\40. Hoger_Lager\40. Hoger_Lager\bin\Debug\_40.Hoger_Lager.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\40. Hoger_Lager\40. Hoger_Lager\obj\Debug\40. Hoger_Lager.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\40. Hoger_Lager\40. Hoger_Lager\obj\Debug\_40.Hoger_Lager.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\40. Hoger_Lager\40. Hoger_Lager\obj\Debug\_40.Hoger_Lager.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\40. Hoger_Lager\40. Hoger_Lager\obj\Debug\40. Hoger_Lager.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\40. Hoger_Lager\40. Hoger_Lager\obj\Debug\_40.Hoger_Lager.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\40. Hoger_Lager\40. Hoger_Lager\obj\Debug\_40.Hoger_Lager.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\40. Hoger_Lager\40. Hoger_Lager\bin\Debug\InputBox.dll

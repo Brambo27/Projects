@@ -1,0 +1,2 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\bin\Debug\FirstRpg.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\FirstRpg\bin\Debug\SuperAdventure.exe.config

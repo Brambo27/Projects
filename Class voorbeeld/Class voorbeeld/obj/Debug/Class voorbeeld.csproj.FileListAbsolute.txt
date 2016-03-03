@@ -1,0 +1,6 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Class voorbeeld\Class voorbeeld\bin\Debug\Class voorbeeld.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Class voorbeeld\Class voorbeeld\bin\Debug\Class voorbeeld.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Class voorbeeld\Class voorbeeld\bin\Debug\Class voorbeeld.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Class voorbeeld\Class voorbeeld\obj\Debug\Class voorbeeld.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Class voorbeeld\Class voorbeeld\obj\Debug\Class voorbeeld.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Class voorbeeld\Class voorbeeld\obj\Debug\Class voorbeeld.pdb

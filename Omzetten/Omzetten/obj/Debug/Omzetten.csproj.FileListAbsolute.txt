@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Omzetten\Omzetten\bin\Debug\Omzetten.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Omzetten\Omzetten\bin\Debug\Omzetten.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Omzetten\Omzetten\bin\Debug\Omzetten.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Omzetten\Omzetten\obj\Debug\Omzetten.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Omzetten\Omzetten\obj\Debug\Omzetten.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Omzetten\Omzetten\obj\Debug\Omzetten.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Omzetten\Omzetten\obj\Debug\Omzetten.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Omzetten\Omzetten\obj\Debug\Omzetten.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Omzetten\Omzetten\obj\Debug\Omzetten.pdb

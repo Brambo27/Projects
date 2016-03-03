@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\52. Blackjack\52. Blackjack\bin\Debug\_52.Blackjack.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\52. Blackjack\52. Blackjack\bin\Debug\_52.Blackjack.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\52. Blackjack\52. Blackjack\bin\Debug\_52.Blackjack.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\52. Blackjack\52. Blackjack\obj\Debug\52. Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\52. Blackjack\52. Blackjack\obj\Debug\_52.Blackjack.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\52. Blackjack\52. Blackjack\obj\Debug\_52.Blackjack.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\52. Blackjack\52. Blackjack\obj\Debug\52. Blackjack.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\52. Blackjack\52. Blackjack\obj\Debug\_52.Blackjack.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\52. Blackjack\52. Blackjack\obj\Debug\_52.Blackjack.pdb

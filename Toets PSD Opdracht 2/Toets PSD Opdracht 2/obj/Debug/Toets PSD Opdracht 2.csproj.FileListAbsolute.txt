@@ -1,0 +1,8 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Toets PSD Opdracht 2\Toets PSD Opdracht 2\bin\Debug\Toets PSD Opdracht 2.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Toets PSD Opdracht 2\Toets PSD Opdracht 2\bin\Debug\Toets PSD Opdracht 2.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Toets PSD Opdracht 2\Toets PSD Opdracht 2\bin\Debug\Toets PSD Opdracht 2.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Toets PSD Opdracht 2\Toets PSD Opdracht 2\obj\Debug\Toets_PSD_Opdracht_2.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Toets PSD Opdracht 2\Toets PSD Opdracht 2\obj\Debug\Toets_PSD_Opdracht_2.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Toets PSD Opdracht 2\Toets PSD Opdracht 2\obj\Debug\Toets PSD Opdracht 2.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Toets PSD Opdracht 2\Toets PSD Opdracht 2\obj\Debug\Toets PSD Opdracht 2.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\Toets PSD Opdracht 2\Toets PSD Opdracht 2\obj\Debug\Toets PSD Opdracht 2.pdb

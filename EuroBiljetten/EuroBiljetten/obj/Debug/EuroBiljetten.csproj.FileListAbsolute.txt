@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\EuroBiljetten\EuroBiljetten\bin\Debug\EuroBiljetten.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\EuroBiljetten\EuroBiljetten\bin\Debug\EuroBiljetten.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\EuroBiljetten\EuroBiljetten\bin\Debug\EuroBiljetten.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\EuroBiljetten\EuroBiljetten\obj\Debug\EuroBiljetten.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\EuroBiljetten\EuroBiljetten\obj\Debug\EuroBiljetten.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\EuroBiljetten\EuroBiljetten\obj\Debug\EuroBiljetten.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\EuroBiljetten\EuroBiljetten\obj\Debug\EuroBiljetten.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\EuroBiljetten\EuroBiljetten\obj\Debug\EuroBiljetten.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\EuroBiljetten\EuroBiljetten\obj\Debug\EuroBiljetten.pdb

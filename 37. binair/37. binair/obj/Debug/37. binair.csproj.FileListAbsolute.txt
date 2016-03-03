@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\37. binair\37. binair\bin\Debug\_37.binair.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\37. binair\37. binair\bin\Debug\_37.binair.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\37. binair\37. binair\bin\Debug\_37.binair.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\37. binair\37. binair\obj\Debug\37. binair.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\37. binair\37. binair\obj\Debug\_37.binair.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\37. binair\37. binair\obj\Debug\_37.binair.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\37. binair\37. binair\obj\Debug\37. binair.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\37. binair\37. binair\obj\Debug\_37.binair.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\37. binair\37. binair\obj\Debug\_37.binair.pdb

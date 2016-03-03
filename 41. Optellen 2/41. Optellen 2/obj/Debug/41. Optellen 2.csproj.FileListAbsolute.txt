@@ -1,0 +1,10 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\41. Optellen 2\41. Optellen 2\bin\Debug\_41.Optellen_2.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\41. Optellen 2\41. Optellen 2\bin\Debug\_41.Optellen_2.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\41. Optellen 2\41. Optellen 2\bin\Debug\_41.Optellen_2.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\41. Optellen 2\41. Optellen 2\bin\Debug\InputBox.dll
+C:\Users\bram\Documents\Visual Studio 2015\Projects\41. Optellen 2\41. Optellen 2\obj\Debug\41. Optellen 2.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\41. Optellen 2\41. Optellen 2\obj\Debug\_41.Optellen_2.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\41. Optellen 2\41. Optellen 2\obj\Debug\_41.Optellen_2.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\41. Optellen 2\41. Optellen 2\obj\Debug\41. Optellen 2.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\41. Optellen 2\41. Optellen 2\obj\Debug\_41.Optellen_2.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\41. Optellen 2\41. Optellen 2\obj\Debug\_41.Optellen_2.pdb

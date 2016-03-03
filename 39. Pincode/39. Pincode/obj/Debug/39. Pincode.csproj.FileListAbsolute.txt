@@ -1,0 +1,9 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\39. Pincode\39. Pincode\bin\Debug\_39.Pincode.exe.config
+C:\Users\bram\Documents\Visual Studio 2015\Projects\39. Pincode\39. Pincode\bin\Debug\_39.Pincode.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\39. Pincode\39. Pincode\bin\Debug\_39.Pincode.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\39. Pincode\39. Pincode\obj\Debug\39. Pincode.csprojResolveAssemblyReference.cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\39. Pincode\39. Pincode\obj\Debug\_39.Pincode.Form1.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\39. Pincode\39. Pincode\obj\Debug\_39.Pincode.Properties.Resources.resources
+C:\Users\bram\Documents\Visual Studio 2015\Projects\39. Pincode\39. Pincode\obj\Debug\39. Pincode.csproj.GenerateResource.Cache
+C:\Users\bram\Documents\Visual Studio 2015\Projects\39. Pincode\39. Pincode\obj\Debug\_39.Pincode.exe
+C:\Users\bram\Documents\Visual Studio 2015\Projects\39. Pincode\39. Pincode\obj\Debug\_39.Pincode.pdb
