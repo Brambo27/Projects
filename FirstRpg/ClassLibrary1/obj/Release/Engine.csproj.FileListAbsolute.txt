@@ -1,0 +1,4 @@
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\ClassLibrary1\bin\Release\Engine.dll
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\ClassLibrary1\bin\Release\Engine.pdb
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\ClassLibrary1\obj\Release\Engine.dll
+C:\Users\bram\Documents\Visual Studio 2015\Projects\FirstRpg\ClassLibrary1\obj\Release\Engine.pdb

@@ -115,5 +115,24 @@ namespace _20._0_of_1
             }
             return(0);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            progressBar3.Value = 90;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            progressBar3.Value = 100;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            double Ding;
+
+            Ding = (double)9 / 10;
+            progressBar3.Value = 9 / 10 * 100;
+            Console.Write(Ding);
+        }
     }
 }

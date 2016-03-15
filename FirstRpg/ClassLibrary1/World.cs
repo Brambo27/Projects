@@ -14,6 +14,7 @@ namespace Engine
         public static readonly List<Location> Locations = new List<Location>();
 
         public const int ITEM_ID_RUSTY_SWORD = 1;
+        public const int ITEM_ID_IRON_SWORD = 11;
         public const int ITEM_ID_RAT_TAIL = 2;
         public const int ITEM_ID_PIECE_OF_FUR = 3;
         public const int ITEM_ID_SNAKE_FANG = 4;
@@ -30,6 +31,7 @@ namespace Engine
 
         public const int QUEST_ID_CLEAR_ALCHEMIST_GARDEN = 1;
         public const int QUEST_ID_CLEAR_FARMERS_FIELD = 2;
+        public const int QUEST_ID_KILL_GIANT_SPIDER = 3;
 
         public const int LOCATION_ID_HOME = 1;
         public const int LOCATION_ID_TOWN_SQUARE = 2;
@@ -52,6 +54,7 @@ namespace Engine
         private static void PopulateItems()
         {
             Items.Add(new Weapon(ITEM_ID_RUSTY_SWORD, "Rusty sword", "Rusty swords", 0, 5));
+            Items.Add(new Weapon(ITEM_ID_IRON_SWORD, "Iron sword", "Iron swords", 4, 10));
             Items.Add(new Item(ITEM_ID_RAT_TAIL, "Rat tail", "Rat tails"));
             Items.Add(new Item(ITEM_ID_PIECE_OF_FUR, "Piece of fur", "Pieces of fur"));
             Items.Add(new Item(ITEM_ID_SNAKE_FANG, "Snake fang", "Snake fangs"));
@@ -61,6 +64,7 @@ namespace Engine
             Items.Add(new Item(ITEM_ID_SPIDER_FANG, "Spider fang", "Spider fangs"));
             Items.Add(new Item(ITEM_ID_SPIDER_SILK, "Spider silk", "Spider silks"));
             Items.Add(new Item(ITEM_ID_ADVENTURER_PASS, "Adventurer pass", "Adventurer passes"));
+            
         }
 
         private static void PopulateMonsters()
@@ -73,7 +77,7 @@ namespace Engine
             snake.LootTable.Add(new LootItem(ItemByID(ITEM_ID_SNAKE_FANG), 75, false));
             snake.LootTable.Add(new LootItem(ItemByID(ITEM_ID_SNAKESKIN), 75, true));
 
-            Monster giantSpider = new Monster(MONSTER_ID_GIANT_SPIDER, "Giant spider", 20, 5, 40, 10, 10);
+            Monster giantSpider = new Monster(MONSTER_ID_GIANT_SPIDER, "Giant spider", 20, 50, 40, 10, 10);
             giantSpider.LootTable.Add(new LootItem(ItemByID(ITEM_ID_SPIDER_FANG), 75, true));
             giantSpider.LootTable.Add(new LootItem(ItemByID(ITEM_ID_SPIDER_SILK), 25, false));
 
@@ -104,6 +108,17 @@ namespace Engine
 
             clearFarmersField.RewardItem = ItemByID(ITEM_ID_ADVENTURER_PASS);
 
+            Quest killGiantSpider =
+                new Quest(
+                    QUEST_ID_KILL_GIANT_SPIDER,
+                    "Kill the Giant Spider",
+                    "A Giant spider apears infront of you! You see a chest behind it!", 0, 0);
+
+            killGiantSpider.QuestCompletionItems.Add(new QuestCompletionItem(ItemByID(ITEM_ID_SPIDER_FANG), 1));
+
+            killGiantSpider.RewardItem = ItemByID(ITEM_ID_IRON_SWORD);
+
+            Quests.Add(killGiantSpider);
             Quests.Add(clearAlchemistGarden);
             Quests.Add(clearFarmersField);
         }
@@ -133,6 +148,7 @@ namespace Engine
 
             Location spiderField = new Location(LOCATION_ID_SPIDER_FIELD, "Forest", "You see spider webs covering covering the trees in this forest.");
             spiderField.MonsterLivingHere = MonsterByID(MONSTER_ID_GIANT_SPIDER);
+            spiderField.QuestAvailableHere = QuestByID(QUEST_ID_KILL_GIANT_SPIDER);
 
             // Link the locations together
             home.LocationToNorth = townSquare;
